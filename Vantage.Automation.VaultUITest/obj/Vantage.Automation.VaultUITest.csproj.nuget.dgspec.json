@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Vantage.Automation.VaultUITest\\Vantage.Automation.VaultUITest.csproj": {}
+  },
+  "projects": {
+    "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Microsoft.Dynamics365.UIAutomation.Api.UCI\\Microsoft.Dynamics365.UIAutomation.Api.UCI.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Microsoft.Dynamics365.UIAutomation.Api.UCI\\Microsoft.Dynamics365.UIAutomation.Api.UCI.csproj",
+        "projectName": "Microsoft.Dynamics365.UIAutomation.Api.UCI",
+        "projectPath": "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Microsoft.Dynamics365.UIAutomation.Api.UCI\\Microsoft.Dynamics365.UIAutomation.Api.UCI.csproj",
+        "frameworks": {
+          "net46": {
+            "projectReferences": {
+              "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Microsoft.Dynamics365.UIAutomation.Browser\\Microsoft.Dynamics365.UIAutomation.Browser.csproj": {
+                "projectPath": "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Microsoft.Dynamics365.UIAutomation.Browser\\Microsoft.Dynamics365.UIAutomation.Browser.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {}
+      }
+    },
+    "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Microsoft.Dynamics365.UIAutomation.Browser\\Microsoft.Dynamics365.UIAutomation.Browser.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Microsoft.Dynamics365.UIAutomation.Browser\\Microsoft.Dynamics365.UIAutomation.Browser.csproj",
+        "projectName": "Microsoft.Dynamics365.UIAutomation.Browser",
+        "projectPath": "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Microsoft.Dynamics365.UIAutomation.Browser\\Microsoft.Dynamics365.UIAutomation.Browser.csproj"
+      },
+      "frameworks": {
+        "net46": {}
+      }
+    },
+    "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Vantage.Automation.VaultUITest\\Vantage.Automation.VaultUITest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Vantage.Automation.VaultUITest\\Vantage.Automation.VaultUITest.csproj",
+        "projectName": "Vantage.Automation.VaultUITest",
+        "projectPath": "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Vantage.Automation.VaultUITest\\Vantage.Automation.VaultUITest.csproj",
+        "packagesPath": "C:\\Users\\Puneet.Rawat\\.nuget\\packages\\",
+        "outputPath": "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Vantage.Automation.VaultUITest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Puneet.Rawat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Microsoft.Dynamics365.UIAutomation.Api.UCI\\Microsoft.Dynamics365.UIAutomation.Api.UCI.csproj": {
+                "projectPath": "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Microsoft.Dynamics365.UIAutomation.Api.UCI\\Microsoft.Dynamics365.UIAutomation.Api.UCI.csproj"
+              },
+              "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Microsoft.Dynamics365.UIAutomation.Browser\\Microsoft.Dynamics365.UIAutomation.Browser.csproj": {
+                "projectPath": "C:\\Automation_Git\\VantageUIAutomationCode\\Vantage.Testing\\automation\\VantageUIAutomation\\Microsoft.Dynamics365.UIAutomation.Browser\\Microsoft.Dynamics365.UIAutomation.Browser.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[32.0.2, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.8.3, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.6, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.5.14, )"
+            },
+            "SpecFlow.MsTest": {
+              "target": "Package",
+              "version": "[3.5.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
